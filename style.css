@@ -1,6 +1,7 @@
 body
 {
   background-color: #CCCCCC;
+  
 }
 div
 {
@@ -9,7 +10,7 @@ div
 }
 blockquote
 {
-  border-style: solid;
+  border: 1px solid;
   border-color: white;
   text-align: center;
   margin-left: 0px;
