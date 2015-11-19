@@ -1,0 +1,22 @@
+body
+{
+  background-color: #CCCCCC;
+}
+div
+{
+  margin: auto;
+  width:500px;
+}
+blockquote
+{
+  border-style: solid;
+  border-color: white;
+  text-align: center;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+h1, h3{
+
+  font-weight:bolder;
+}
